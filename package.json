@@ -1,0 +1,14 @@
+{
+  "name": "electron_one",
+  "version": "1.0.0",
+  "description": "my first electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Denes Toth",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.11"
+  }
+}
