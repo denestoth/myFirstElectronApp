@@ -9,6 +9,6 @@
   "author": "Denes Toth",
   "license": "MIT",
   "dependencies": {
-    "electron": "^3.0.11"
+    "electron": "^9.1.1"
   }
 }
